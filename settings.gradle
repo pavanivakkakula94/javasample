@@ -1,0 +1,3 @@
+rootProject.name='GithubSample'
+include ':app'
+include ':toastlibrary'
